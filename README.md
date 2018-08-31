@@ -6,7 +6,7 @@
 
 ### Our Kan ban is here:
 
-[Project KanBan](https://github.com/orgs/CS-C-BDD-TDD/projects/1)
+**[Project KanBan](https://github.com/orgs/CS-C-BDD-TDD/projects/1)**
 
 You can use the [editor on GitHub](https://github.com/CS-C-BDD-TDD/Dev-Sec-Ops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
