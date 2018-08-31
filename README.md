@@ -1,8 +1,9 @@
-## Welcome to The Dev Sec Ops Project Page!
+# Welcome to The Dev Sec Ops Project Page!
 
-### Here is our calendar!
+## Here is our calendar!
 
 <iframe src="https://calendar.google.com/calendar/embed?src=shusl0tcanhtku2atl7bohdugk%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 You can use the [editor on GitHub](https://github.com/CS-C-BDD-TDD/Dev-Sec-Ops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
