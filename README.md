@@ -1,4 +1,4 @@
-## Welcome to The Dev Sec Ops Project Page!
+# Welcome to The Dev Sec Ops Project Page!
 
 <p align="center">
   <img width="202" height="154" src="https://raw.githubusercontent.com/CS-C-BDD-TDD/DevSecOps.github.io/master/assets/img/devsecops-collab-405x308_0.png?token=AGpzJ75NUoRs_oahpmnXqaT6j7Sc2Qrqks5bmRDlwA%3D%3D">
@@ -6,20 +6,20 @@
 
 Implementation of DevSecOps means thinking about application and infrastructure security from the start. It also means automating some security gates to keep the DevOps workflow from slowing down. Selecting the right tools to continuously integrate security can help meet your security goals, but effective DevOps security requires more than new tools—it builds on the cultural changes of DevOps to integrate the work of security teams sooner rather than later.
 
-### Here is our calendar!
+## Here is our calendar!
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ccccff&amp;src=shusl0tcanhtku2atl7bohdugk%40group.calendar.google.com&amp;color=%235229A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;src=t9buqr1naj22mkel1rmdfkfoh4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe><br>
-<br>
 
-### Our Kan ban is here:
+## Our Kan ban is here:
 
 **[Project KanBan](https://github.com/orgs/CS-C-BDD-TDD/projects/1)**
 
-### Our Wiki is here:
+## Our Wiki is here:
 
 **[Project WiKi](https://github.com/CS-C-BDD-TDD/CICDpilot_Documentation/wiki)**
 
-### Instructions for editing this page:
+## Instructions for editing this page:
+
 You can use the [editor on GitHub](https://github.com/CS-C-BDD-TDD/Dev-Sec-Ops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
