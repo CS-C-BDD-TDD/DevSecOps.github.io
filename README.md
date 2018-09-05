@@ -14,6 +14,11 @@ Implementation of DevSecOps means thinking about application and infrastructure 
 
 **[Project KanBan](https://github.com/orgs/CS-C-BDD-TDD/projects/1)**
 
+### Our Wiki is here:
+
+**[Project WiKi](https://github.com/CS-C-BDD-TDD/CICDpilot_Documentation/wiki)**
+
+### Instructions for editing this page:
 You can use the [editor on GitHub](https://github.com/CS-C-BDD-TDD/Dev-Sec-Ops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
