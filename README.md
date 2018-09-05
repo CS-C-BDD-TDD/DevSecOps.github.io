@@ -1,5 +1,11 @@
 ## Welcome to The Dev Sec Ops Project Page!
 
+<p align="center">
+  <img width="405" height="308" src="https://github.com/CS-C-BDD-TDD/DevSecOps.github.io/blob/master/assets/img/devsecops-collab-405x308_0.png">
+</p>
+
+Implementation of DevSecOps means thinking about application and infrastructure security from the start. It also means automating some security gates to keep the DevOps workflow from slowing down. Selecting the right tools to continuously integrate security can help meet your security goals, but effective DevOps security requires more than new tools—it builds on the cultural changes of DevOps to integrate the work of security teams sooner rather than later.
+
 ### Here is our calendar!
 
 <iframe src="https://calendar.google.com/calendar/embed?src=shusl0tcanhtku2atl7bohdugk%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="700" height="500" frameborder="0" scrolling="no"></iframe>
