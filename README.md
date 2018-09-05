@@ -8,7 +8,7 @@ Implementation of DevSecOps means thinking about application and infrastructure 
 
 ### Here is our calendar!
 
-<iframe src="https://calendar.google.com/calendar/embed?title=DevSecOps%20Project&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=shusl0tcanhtku2atl7bohdugk%40group.calendar.google.com&amp;color=%235229A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;src=t9buqr1naj22mkel1rmdfkfoh4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ccccff&amp;src=shusl0tcanhtku2atl7bohdugk%40group.calendar.google.com&amp;color=%235229A3&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;src=t9buqr1naj22mkel1rmdfkfoh4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=America%2FNew_York" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Our Kan ban is here:
 
