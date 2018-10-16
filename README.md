@@ -1,7 +1,7 @@
 # Welcome to The Dev Sec Ops Project Page!
 
 <p align="center">
-  <img width="202" height="154" src="https://raw.githubusercontent.com/CS-C-BDD-TDD/DevSecOps.github.io/master/assets/img/devsecops-collab-405x308_0.png?token=AGpzJ5HBBMk4oIySutXbjRbkDzuqrg7_ks5bonQawA%3D%3D">
+  <img width="202" height="154" src="https://raw.githubusercontent.com/CS-C-BDD-TDD/DevSecOps.github.io/master/assets/img/devsecops-collab-405x308_0.png?token=AGpzJ__DAKWKNBhk90fFA_c6XRx6pMH2ks5bzza0wA%3D%3D">
 </p>
 
 Implementation of DevSecOps means thinking about application and infrastructure security from the start. It also means automating some security gates to keep the DevOps workflow from slowing down. Selecting the right tools to continuously integrate security can help meet your security goals, but effective DevOps security requires more than new tools—it builds on the cultural changes of DevOps to integrate the work of security teams sooner rather than later.
