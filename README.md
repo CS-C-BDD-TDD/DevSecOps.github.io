@@ -14,11 +14,11 @@ To get access to the calendar email Johnny Johnson at Johnny2136@gmail.com.
 
 ## Our Kan ban is here:
 
-**[Project KanBan](https://github.com/orgs/CS-C-BDD-TDD/projects/1)**
+**[Project KanBan](https://rhlabs.atlassian.net/secure/RapidBoard.jspa?rapidView=60&projectKey=DHS)**
 
 ## Our Wiki is here:
 
-**[Project WiKi](https://github.com/CS-C-BDD-TDD/CICDpilot_Documentation/wiki)**
+**[Project WiKi](https://rhlabs.atlassian.net/wiki/spaces/DHS/overview)**
 
 ## Instructions for editing this page:
 
